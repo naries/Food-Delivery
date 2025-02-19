@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@apollo/gateway": "^2.9.3",
+    "@apollo/server": "^4.11.3",
     "@apollo/subgraph": "^2.9.3",
     "@nestjs/apollo": "^13.0.2",
     "@nestjs/common": "^11.0.1",
@@ -30,6 +31,8 @@
     "@nestjs/jwt": "^11.0.0",
     "@nestjs/platform-express": "^11.0.1",
     "@prisma/client": "^6.3.1",
+    "@types/bcrypt": "^5.0.2",
+    "bcrypt": "^5.1.1",
     "class-validator": "^0.14.1",
     "graphql": "^16.10.0",
     "reflect-metadata": "^0.2.2",
